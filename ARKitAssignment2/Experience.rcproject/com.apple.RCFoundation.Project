@@ -1,0 +1,832 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "F9610871-0955-494F-A5C3-51D1A281BAB3",
+              "material" : "ice",
+              "overrides" : {
+                "children" : {
+                  "1E980BF2-55B9-4950-B85F-4D1DBA1282E9" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "height",
+                          {
+                            "typeName" : "Int",
+                            "value" : 2
+                          }
+                        ],
+                        [
+                          "type",
+                          {
+                            "typeName" : "String",
+                            "value" : "Colonial"
+                          }
+                        ],
+                        [
+                          "width",
+                          {
+                            "typeName" : "Int",
+                            "value" : 7
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "basement_window_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "56059836-5175-42C1-998B-840E3CF39811"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "basement_window_2" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "6EAD8A2F-C22A-49BB-B21F-B51018C1113B"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_left_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "B88658C8-3233-4B03-8B82-37339A6C33C1"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "AE41F0DF-B2C0-4ED0-A607-915024518493"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_2" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "F252BE0E-E19F-49FD-9E34-7A0EF9924C7B"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_3" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "F0CEBA15-B6F5-4DA2-84CE-6EA081A303BB"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_4" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "7F1D7740-C530-4BF6-8672-ABB75A51122B"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_5" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "04EBE05E-5D5D-4B5F-8956-985B985598DB"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_6" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "5F3C7EA3-F45E-4332-81BA-013E27551071"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_7" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "69475920-39AA-41D5-893C-08D32352D340"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_8" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "6A3C8281-9C3E-4767-A0F3-81C395CDABEB"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_9" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "13D9E1DE-AC6A-4671-BE11-3CC55DBC0B2A"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_middle_10" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "02FD0DD1-1263-4250-83BB-D725AE801AF9"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "cornice_right_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "98A47281-3CC5-48DB-B79D-2E5FE1BA507D"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "door_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "EDD75974-AF70-40E1-A83D-74C81517AD66"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "dormer_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "C73B0462-83C7-4A04-BD14-017327BB2A2A"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "dormer_2" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "6D60D14F-4225-4E37-A0DC-8A75B9FB2373"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "dormer_3" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "938CA2D9-01DB-42B0-BECA-5055EED58512"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "979C8FF9-D61C-4E00-BDEF-4BCA3CD92EB6"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_2" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "40CF3BC1-C7E6-4E3D-BC68-BFFB0337A49E"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_3" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "EDAACB9E-0D15-41AB-8538-489F53A6ED27"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_4" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "DBBD3497-D62E-4977-BC6D-4FE2765E00B0"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_5" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "3EFDA226-8C5E-4D56-996A-AB6BB6FA924C"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_6" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "D1DE3569-06B7-4798-8E6F-800620F523C6"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_7" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "64038718-B949-4F38-B807-4391EBF8B2CB"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_8" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "75056E66-3F50-4DA5-ADD8-5F7ECB92EBA1"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_9" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "AC5950A1-B13F-44C9-9BBE-50838BB93A9F"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_left_10" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "4F4C5B00-145D-4AFB-9CF2-833E7B640B5C"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "51CD8B6D-1CAA-46FC-B23E-5C1337DA9B66"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_2" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "CA31308E-E05C-4784-9DBC-E25C8B6681FE"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_3" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "1131DD06-7C5C-4837-817F-0E5CF12B843E"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_4" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "A6B020D6-C3A0-4EDD-AE8A-CBC67F67F280"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_5" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "AFE9950C-504B-4577-A4E7-8874E43317E8"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_6" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "11DBF86B-56D7-4420-9131-777B77FC2905"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_7" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "BB9FF8C7-A153-4958-A42F-36C90BB8E444"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_8" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "DEAB0FEF-69BD-4646-8334-7C8CD3B13B77"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_9" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "D69275C5-A86D-472E-9E1A-2E3F5536ACA0"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "edge_right_10" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "FCA9B184-CD73-4F2C-8BFD-D38C978CDEA4"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "window_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "83632EB4-0AE8-4850-B949-C8091A162977"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "window_2" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "98FAC36E-8622-4C32-8068-C467858B830D"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.SocketHouse.SocketHouse",
+                        "version" : "2.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "05B8BC36-B8ED-4AEA-9EC6-3CB4CB7F5432"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        -0.22266820073127747,
+                        2.851197855591181e-08,
+                        5.4500021934509277,
+                        1
+                      ]
+                    }
+                  },
+                  "4A213441-135C-450E-8EF8-1A4EAB267C1D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "steel"
+                          }
+                        ],
+                        [
+                          "type",
+                          {
+                            "typeName" : "String",
+                            "value" : "box"
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PrimitiveShapeAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "3788A5B5-0388-488A-8304-7B90FEBA6FAC"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "Steel Box"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.050000008195638657,
+                        -2.9915432353533333e-09,
+                        1
+                      ]
+                    }
+                  },
+                  "7F5F1ADC-E5E4-4EF5-A5B5-FC43B071FFA5" : null,
+                  "632E476F-1E55-4E30-9723-1C51DD2E8B89" : null,
+                  "85112A91-CEDD-4B50-A1F8-A03FB634CA41" : null,
+                  "AE15DE8C-2AC6-424D-8606-2680682DE8C3" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "type",
+                          {
+                            "typeName" : "String",
+                            "value" : "star"
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PrimitiveShapeAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "613E71D7-EB58-43A2-BCDD-4E4088B5A435"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        -0.16748625040054321,
+                        0.011079452931880951,
+                        0.56250911951065063,
+                        1
+                      ]
+                    }
+                  },
+                  "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Box",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.80754858255386353,
+                  -0.58980095386505127,
+                  0,
+                  0,
+                  0.58980095386505127,
+                  0.80754858255386353,
+                  0,
+                  0,
+                  1.135667085647583,
+                  1.5549418926239014,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
